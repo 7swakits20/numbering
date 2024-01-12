@@ -19,3 +19,5 @@ Follow these instructions to get a copy of the project up and running on your lo
 ### Prerequisites
 
 - Make sure you have a C++ compiler installed on your machine.
+- https://github.com/7swakits20/numbering/assets/156439440/acb55d19-b106-4692-9895-229a1100dbcf
+
